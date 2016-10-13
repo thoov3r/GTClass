@@ -1,0 +1,19 @@
+html { 
+  background: url(Skyline2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+  body {
+  	 font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: white;
+    text-shadow:2px 2px #000000;
+
+
+}
+    h1 {
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif }
